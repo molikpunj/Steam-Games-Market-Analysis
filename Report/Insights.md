@@ -91,7 +91,7 @@ Developers entering highly saturated genres such as Indie, Action, Casual, or Ad
 
 - Review scores remain widely distributed across all price points.
 - Both inexpensive and premium-priced games receive high and low ratings.
-- The correlation coefficient between price and review score is **X.XX**, indicating a weak relationship.
+- The correlation coefficient between price and review score is **-0.03**, indicating a weak relationship.
 
 ### Business Insight
 
@@ -107,13 +107,14 @@ Pricing alone does not determine player satisfaction. Game quality, gameplay exp
 
 ### Key Findings
 
-- ...
-- ...
-- ...
+- The majority of Steam games fall within the **Budget** price category.
+- Premium and Expensive titles represent a significantly smaller portion of the Steam marketplace.
+- Free-to-play games account for a substantial share of releases but do not dominate the platform.
+- Steam's pricing distribution is heavily skewed toward affordable games.
 
 ### Business Insight
 
-Steam is primarily composed of games in the **_____** price category, suggesting that developers generally target affordable pricing to maximize accessibility and sales potential.
+Steam is primarily composed of games in the **Budget** price category, suggesting that developers generally target affordable pricing to maximize accessibility and sales potential.
 
 ---
 
@@ -125,9 +126,10 @@ Steam is primarily composed of games in the **_____** price category, suggesting
 
 ### Key Findings
 
-- ...
-- ...
-- ...
+- The average review scores of free and paid games differ only modestly.
+- Both monetization models are capable of achieving high player satisfaction.
+- The results suggest that pricing strategy alone has limited influence on review outcomes.
+- Players appear to evaluate games primarily on their overall quality rather than whether they are free or paid.
 
 ### Business Insight
 
