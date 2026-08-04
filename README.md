@@ -6,7 +6,7 @@ An in depth analysis of over 126,000 games uploaded on Steam from 2010 to 2026
 
 The objective of this project is to analyze the Steam games marketplace and identify trends that can help indie game developers and publishers make better business decisions.
 
-## Market Analysis
+## Genre Analysis
 
 - Which game genres dominate the Steam marketplace?
 - Which genres receive the highest average user ratings?

@@ -1,4 +1,4 @@
-# Business Insights
+# Genre Insights
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### Visualization
 
-![Top Genres](../Images/Genre%20Analysis/01_top_genres.png)
+![Top Genres](../Images/Genre%20Analysis/top_genres.png)
 
 ### Key Findings
 
@@ -25,7 +25,7 @@ Developers entering popular genres should focus on creating a unique selling poi
 
 ### Visualization
 
-![Highest Rated Genres](../Images/Genre%20Analysis/02_highest_rated_genres.png)
+![Highest Rated Genres](../Images/Genre%20Analysis/highest_rated_genres.png)
 
 ### Key Findings
 
@@ -74,3 +74,61 @@ High player engagement is not exclusive to the most common genres. Specialized g
 ### Business Insight
 
 Developers entering highly saturated genres such as Indie, Action, Casual, or Adventure must differentiate their products through unique gameplay, strong marketing, or innovative mechanics to stand out. Less saturated genres may offer lower competition, but developers should also evaluate market demand before targeting these niches.
+
+---
+
+# Pricing Insights
+
+---
+
+## 1. Does a game's price influence its review score?
+
+### Visualization
+
+![Price vs Review Score](../Images/Pricing%20Analysis/price_vs_review_score.png)
+
+### Key Findings
+
+- Review scores remain widely distributed across all price points.
+- Both inexpensive and premium-priced games receive high and low ratings.
+- The correlation coefficient between price and review score is **X.XX**, indicating a weak relationship.
+
+### Business Insight
+
+Pricing alone does not determine player satisfaction. Game quality, gameplay experience, and overall value appear to have a much greater impact on review scores than price.
+
+---
+
+## 2. What is the most common price range on Steam?
+
+### Visualization
+
+![Price Distribution](../Images/Pricing%20Analysis/price_distribution.png)
+
+### Key Findings
+
+- ...
+- ...
+- ...
+
+### Business Insight
+
+Steam is primarily composed of games in the **_____** price category, suggesting that developers generally target affordable pricing to maximize accessibility and sales potential.
+
+---
+
+## 3. Are free-to-play games generally rated better than paid games?
+
+### Visualization
+
+![Free vs Paid](../Images/Pricing%20Analysis/free_vs_paid_reviews.png)
+
+### Key Findings
+
+- ...
+- ...
+- ...
+
+### Business Insight
+
+Free-to-play games do/do not consistently receive higher player ratings than paid games, indicating that monetization strategy alone is not a reliable predictor of player satisfaction.
