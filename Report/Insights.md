@@ -195,3 +195,83 @@ Established publishers build their market presence through consistently releasin
 ### Business Insight
 
 Consistently high player satisfaction is achievable regardless of studio size. Developers that prioritize quality, polish, and player experience across multiple releases are more likely to build a strong reputation and long-term success on Steam.
+
+---
+
+# Player Engagement Insights
+
+---
+
+## 1. Do games with more achievements receive better reviews?
+
+### Visualization
+
+![Achievements vs Review Score](../Images/Player%20Engagement/achievements_vs_reviews.png)
+
+### Key Findings
+
+- A slight positive relationship exists between the number of achievements and review scores.
+- Most games contain fewer than 50 achievements, although some titles include over 200.
+- Highly-rated games are found across nearly every achievement count, indicating that achievement quantity alone does not guarantee success.
+- Games with more achievements tend to maintain slightly higher average review scores, but the relationship is relatively weak.
+
+### Business Insight
+
+Including achievements can enhance player engagement and encourage completion, but simply increasing the number of achievements is unlikely to significantly improve player reviews. Developers should prioritize meaningful, well-designed achievements over quantity.
+
+---
+
+## 2. Does average playtime correlate with review scores?
+
+### Visualization
+
+![Playtime vs Review Score](../Images/Player%20Engagement/playtime_vs_reviews.png)
+
+### Key Findings
+
+- The trend line shows a weak positive relationship between average playtime and review score.
+- Most Steam games accumulate relatively low average playtime, while a small number become long-term player favorites.
+- Games with higher playtime generally maintain higher review scores, although there is substantial variation across all playtime ranges.
+- Several games with thousands of hours of average playtime also receive very positive reviews, suggesting strong player retention.
+
+### Business Insight
+
+Games that successfully retain players for longer periods generally receive better reviews. Rather than maximizing playtime through repetitive content, developers should focus on creating engaging gameplay loops that naturally encourage long-term player retention.
+
+---
+
+## 3. Which games have the highest estimated player ownership?
+
+### Visualization
+
+![Highest Estimated Ownership](../Images/Player%20Engagement/highest_estimated_ownership.png)
+
+### Key Findings
+
+- Apex Legends, Counter-Strike 2, PUBG: BATTLEGROUNDS, and Dota 2 have the highest estimated player ownership on Steam.
+- Popular multiplayer and free-to-play titles dominate the ownership rankings.
+- Several well-known premium games such as Black Myth: Wukong, Grand Theft Auto V, Palworld, and ELDEN RING also appear among the most-owned games.
+- The ownership distribution highlights the massive reach that successful live-service games can achieve.
+
+### Business Insight
+
+Free-to-play multiplayer games have the greatest potential to build extremely large player bases. However, premium titles with exceptional quality and strong community interest can also achieve massive ownership numbers, demonstrating that both business models can succeed.
+
+---
+
+## 4. Which games have the highest peak concurrent players?
+
+### Visualization
+
+![Highest Peak Concurrent Players](../Images/Player%20Engagement/highest_peak_players.png)
+
+### Key Findings
+
+- Counter-Strike 2 recorded the highest peak concurrent player count in the dataset.
+- Dota 2 and PUBG: BATTLEGROUNDS remain among the most-played games simultaneously on Steam.
+- Multiplayer-focused titles dominate the concurrency rankings, with games such as Apex Legends, Marvel Rivals, Call of Duty, and NARAKA: BLADEPOINT maintaining large active communities.
+- A few single-player games, including ELDEN RING and Baldur's Gate 3, achieved exceptionally high launch-time player counts despite lacking ongoing multiplayer gameplay.
+
+### Business Insight
+
+Peak concurrent player counts are largely driven by multiplayer experiences and live-service games that encourage players to return regularly. However, blockbuster single-player releases can also generate massive player spikes through strong launches and widespread community interest.

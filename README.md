@@ -28,7 +28,7 @@ The objective of this project is to analyze the Steam games marketplace and iden
 ## Player Engagement Analysis
 
 - Do games with more achievements receive better reviews?
-- Does average playtime correlate with review scores?
+- How does average review score change across playtime ranges?
 - Which games have the highest estimated player ownership?
 - Which games have the highest peak concurrent players?
 
