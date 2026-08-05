@@ -134,3 +134,64 @@ Steam is primarily composed of games in the **Budget** price category, suggestin
 ### Business Insight
 
 Free-to-play games do/do not consistently receive higher player ratings than paid games, indicating that monetization strategy alone is not a reliable predictor of player satisfaction.
+
+---
+
+# Developer & Publisher Insights
+
+---
+
+## 1. Which developers have released the most games?
+
+### Visualization
+
+![Top Developers](../Images/Developer%20Analysis/top_developers.png)
+
+### Key Findings
+
+- **EroticGamesClub** has released the highest number of games in the dataset, with over **230** Steam titles.
+- **Choice of Games** ranks second, followed by **Boogygames Studios**, **Laush Dmitriy Sergeevich**, and **Bully Revenge Studios**.
+- The number of releases declines steadily after the top developer, indicating that only a small number of studios publish games at an exceptionally high volume.
+- Most developers on the leaderboard specialize in consistently releasing numerous titles rather than focusing on only a few flagship games.
+
+### Business Insight
+
+A small number of developers dominate Steam in terms of release volume. For independent developers, competing through quantity alone is unrealistic; focusing on quality, innovation, and targeting a specific niche is likely to be a more effective strategy.
+
+---
+
+## 2. Which publishers have the largest Steam presence?
+
+### Visualization
+
+![Top Publishers](../Images/Developer%20Analysis/top_publishers.png)
+
+### Key Findings
+
+- **BFG Entertainment** has the largest publishing presence in the dataset with more than **550** published games.
+- **8floor**, **EroticGamesClub**, **PlayWay S.A.**, and **Strategy First** also maintain extensive publishing catalogs on Steam.
+- The leading publisher has more than twice as many releases as most other publishers in the top fifteen.
+- The results show that a relatively small group of publishers account for a significant share of Steam's published games.
+
+### Business Insight
+
+Established publishers build their market presence through consistently releasing large numbers of games over time. Partnering with experienced publishers can provide independent developers with greater visibility, marketing support, and distribution opportunities.
+
+---
+
+## 3. Which developers consistently release highly-rated games?
+
+### Visualization
+
+![Highest Rated Developers](../Images/Developer%20Analysis/highest_rated_developers.png)
+
+### Key Findings
+
+- All developers shown achieved exceptionally high average review scores, ranging from approximately **96% to 99%**.
+- Each developer satisfied the filtering criteria of having released multiple games and accumulated a meaningful number of player reviews.
+- High average review scores are achieved by a diverse mix of independent studios rather than only large, well-known companies.
+- The relatively small difference between the top-ranked developers suggests that consistently delivering polished, well-received games is more important than maximizing release volume.
+
+### Business Insight
+
+Consistently high player satisfaction is achievable regardless of studio size. Developers that prioritize quality, polish, and player experience across multiple releases are more likely to build a strong reputation and long-term success on Steam.
