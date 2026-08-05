@@ -263,7 +263,7 @@ Free-to-play multiplayer games have the greatest potential to build extremely la
 
 ### Visualization
 
-![Highest Peak Concurrent Players](../Images/Player%20Engagement/highest_peak_players.png)
+![Highest Peak Concurrent Players](../Images/Player%20Engagement/highest_peak_ccu.png)
 
 ### Key Findings
 
@@ -275,3 +275,66 @@ Free-to-play multiplayer games have the greatest potential to build extremely la
 ### Business Insight
 
 Peak concurrent player counts are largely driven by multiplayer experiences and live-service games that encourage players to return regularly. However, blockbuster single-player releases can also generate massive player spikes through strong launches and widespread community interest.
+
+---
+
+# Release Trends Insights
+
+---
+
+## 1. Which years saw the largest number of game releases?
+
+### Visualization
+
+![Releases by Year](../Images/Release%20Trends/releases_by_year.png)
+
+### Key Findings
+
+- Steam experienced relatively slow growth in game releases prior to 2013.
+- Beginning around **2014–2015**, the number of annual releases increased dramatically.
+- Every year since 2015 has generally seen more games released than the previous year.
+- **2025 recorded the highest number of Steam releases** in the dataset, with approximately **25,000 games** published.
+- The trend indicates sustained long-term growth in the size of the Steam marketplace.
+
+### Business Insight
+
+Steam has become significantly more crowded over the past decade. With thousands of new games launching every year, discoverability is increasingly challenging. Developers must invest not only in creating quality games but also in effective marketing, community engagement, and launch strategies to stand out.
+
+---
+
+## 2. Which months are the most popular for launching games?
+
+### Visualization
+
+![Releases by Month](../Images/Release%20Trends/releases_by_month.png)
+
+### Key Findings
+
+- **October** has the highest number of Steam game releases.
+- **November** and **August** are also among the busiest months for launches.
+- **June** records the fewest releases in the dataset.
+- Monthly release counts are relatively balanced overall, with only moderate seasonal variation.
+- Developers appear to favor the second half of the year, particularly the months leading into the holiday shopping season.
+
+### Business Insight
+
+Many developers target the late-year release window to capitalize on increased player activity and major sales events. While these months offer greater consumer demand, they also involve substantially higher competition. Smaller studios may benefit from considering less crowded launch windows.
+
+---
+
+## 3. Has the Steam marketplace become more competitive over time?
+
+### Visualization
+
+![Steam Market Growth](../Images/Release%20Trends/steam_market_growth.png)
+
+### Key Findings
+
+- The cumulative number of games on Steam has grown exponentially over time.
+- Marketplace growth accelerated significantly after **2015**.
+- By **2025**, Steam hosts well over **120,000 games** in the dataset.
+- The steep upward curve highlights the rapid expansion of Steam's catalog over the last decade.
+
+### Business Insight
+
+The Steam marketplace is considerably more competitive today than it was ten years ago. As the platform continues to grow, simply releasing a game is no longer sufficient for success. Developers should prioritize strong product quality, effective marketing, wishlist generation, community building, and post-launch support to improve visibility and long-term performance.
