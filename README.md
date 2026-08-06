@@ -1,61 +1,99 @@
 # Steam Games Market Analysis
 
-An end-to-end exploratory data analysis (EDA) project analyzing over **126,000 Steam games** to uncover market trends, player behavior, pricing strategies, developer performance, and business opportunities for indie game developers.
-
-This project uses **Python**, **Pandas**, **Matplotlib**, and **NumPy** to clean, analyze, and visualize Steam marketplace data.
+An end-to-end data analytics project exploring over **126,000 Steam games** to uncover trends in pricing, player engagement, developer performance, marketplace growth, and business opportunities for indie game developers.
 
 ---
 
-# Project Objectives
+## Project Overview
 
-The goal of this project is to answer real-world business questions that can help developers and publishers make better decisions before launching a game on Steam.
+This project demonstrates a complete analytics workflow from raw data to business recommendations.
 
-The analysis explores:
+The dataset was cleaned and analyzed using Python, stored inside a PostgreSQL database, and visualized through an interactive Power BI dashboard to provide executive-level insights.
 
-- Genre popularity and competition
-- Pricing strategies
-- Developer and publisher performance
-- Player engagement
-- Marketplace growth over time
-- Actionable business recommendations
+---
+
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- PostgreSQL
+- SQL
+- Power BI
+- Git & GitHub
+- Jupyter Notebook
+
+---
+
+# Project Workflow
+
+```
+Raw Steam Dataset (126K+ Games)
+            │
+            ▼
+Data Cleaning & Feature Engineering (Python)
+            │
+            ▼
+Exploratory Data Analysis
+            │
+            ▼
+Business Insights Report
+            │
+            ▼
+PostgreSQL Database
+            │
+            ▼
+Power BI Executive Dashboard
+```
 
 ---
 
 # Business Questions Answered
 
-## Genre Analysis
+### Genre Analysis
 
 - Which game genres dominate the Steam marketplace?
 - Which genres receive the highest average user ratings?
 - Which genres generate the highest player engagement?
 - Which genres appear to be oversaturated?
 
-## Pricing Analysis
+---
+
+### Pricing Analysis
 
 - Does a game's price influence its review score?
 - What is the most common price range on Steam?
 - Are free-to-play games generally rated better than paid games?
 
-## Developer & Publisher Analysis
+---
+
+### Developer & Publisher Analysis
 
 - Which developers have released the most games?
 - Which publishers have the largest Steam presence?
 - Which developers consistently release highly-rated games?
 
-## Player Engagement Analysis
+---
+
+### Player Engagement Analysis
 
 - Do games with more achievements receive better reviews?
 - Does average playtime correlate with review scores?
 - Which games have the highest estimated player ownership?
 - Which games have the highest peak concurrent players?
 
-## Release Trends
+---
+
+### Release Trends
 
 - Which years saw the largest number of game releases?
 - Which months are the most popular for launching games?
-- Has the Steam marketplace become more competitive over time?
+- Has Steam become more competitive over time?
 
-## Business Recommendations
+---
+
+### Business Recommendations
 
 - Which genres offer the best opportunities for new indie developers?
 - What pricing strategy appears to maximize positive player reception?
@@ -63,41 +101,119 @@ The analysis explores:
 
 ---
 
+# Power BI Dashboard
+
+The project also includes an interactive Power BI dashboard connected to the PostgreSQL database.
+
+### Executive Overview
+
+![Executive Dashboard](Dashboard/Executive_Overview_PowerBI.png)
+
+The dashboard provides:
+
+- Total games
+- Average review score
+- Average game price
+- Developer count
+- Publisher count
+- Total review count
+- Releases by year
+- Genre distribution
+- Price category distribution
+- Interactive filters for:
+  - Release Year
+  - Genre
+  - Price Category
+
+---
+
 # Key Insights
 
 Some of the major findings include:
 
-- Steam has grown rapidly since 2015, making the marketplace increasingly competitive.
-- Indie, Action, Adventure, and Casual are the most saturated genres.
-- Game price has very little impact on review scores.
-- Free-to-play and paid games receive similar average player ratings.
-- Longer player retention is generally associated with higher review scores.
-- Multiplayer titles dominate ownership and peak concurrent player counts.
-- Successful developers consistently prioritize game quality over release quantity.
+- Steam has experienced explosive marketplace growth since 2015.
+- Indie, Casual, Action and Adventure are the most saturated genres.
+- Price has almost no influence on review scores.
+- Budget-priced games dominate the marketplace.
+- Free-to-play and paid games receive similar player ratings.
+- Games with longer player retention generally receive higher review scores.
+- Multiplayer titles dominate ownership and concurrent player counts.
+- Successful developers consistently prioritize quality over release quantity.
 
 ---
 
-# Detailed Analysis
+# Repository Structure
 
-The complete analysis, visualizations, and business insights can be found here:
-
-- **Exploratory Data Analysis Notebook:** `Python/03_Exploratory_Data_Analysis.ipynb`
-- **Detailed Insights Report:** `Report/Insights.md`
+```
+Steam Games Market Analysis
+│
+├── Data/
+│   ├── Raw Dataset
+│   └── Cleaned Dataset
+│
+├── Python/
+│   ├── Data Cleaning
+│   └── Exploratory Data Analysis
+│
+├── SQL/
+│   └── PostgreSQL Queries
+│
+├── Dashboard/
+│   ├── Steam_Marketplace_Analysis.pbix
+│   └── Executive_Overview_PowerBI.png
+│
+├── Images/
+│   ├── Genre Analysis
+│   ├── Pricing Analysis
+│   ├── Developer Analysis
+│   ├── Player Engagement
+│   └── Release Trends
+│
+├── Report/
+│   └── Insights.md
+│
+└── README.md
+```
 
 ---
 
-# Technologies Used
+# Detailed Report
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+A complete explanation of every visualization and business recommendation can be found here:
+
+**Report/Insights.md**
+
+The report contains:
+
+- Graph explanations
+- Key findings
+- Business insights
+- Final recommendations
+
+---
+
+# Project Highlights
+
+✔ Cleaned and analyzed 126,000+ Steam games
+
+✔ Answered 18+ real-world business questions
+
+✔ Created 20+ visualizations using Python
+
+✔ Designed an executive Power BI dashboard
+
+✔ Stored cleaned data inside PostgreSQL
+
+✔ Wrote SQL queries for analytical reporting
+
+✔ Produced a detailed business insights report
 
 ---
 
 # Conclusion
 
-The Steam marketplace contains over 120,000 games and continues to grow each year. While competition has increased significantly, the analysis suggests that **quality, player engagement, and effective positioning** have a much stronger impact on success than pricing alone.
+Steam has become one of the most competitive digital marketplaces in gaming, with over **120,000** titles available and thousands of new releases every year.
 
-This project demonstrates how exploratory data analysis can be used to transform raw marketplace data into actionable business insights for game developers and publishers.
+The analysis shows that **pricing alone has little effect on player satisfaction**, while **quality, player engagement, and long-term retention** are far stronger indicators of success.
+
+This project demonstrates how Python, SQL, PostgreSQL, and Power BI can be combined into a complete data analytics workflow to transform raw data into actionable business insights.
